@@ -30,7 +30,7 @@ Some potential use cases for the Laptop Price Predictor:
 
 ### Retail and Wholesale Markets:
 
-**1. Dynamic Pricing****: Help retailers and wholesalers adjust prices based on changing trends in laptop specifications and demand.
+**1. Dynamic Pricing**: Help retailers and wholesalers adjust prices based on changing trends in laptop specifications and demand.
 Tech Review Websites:
 
 **2. Recommendation Systems**: Recommend laptops within the buyer’s budget range by comparing predicted prices with actual features.
