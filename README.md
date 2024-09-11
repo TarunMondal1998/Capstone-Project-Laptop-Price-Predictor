@@ -1,6 +1,8 @@
 # Capstone-Project-Laptop-Price-Predictor
 Laptop Price Predictor Using Machine Learning Algorithms
 
+![Laptop Keyboard - Imgur](https://github.com/user-attachments/assets/1cb97dd0-b2dd-4fff-be2f-26433cc2f246)
+
 ## Overview
 The Laptop Price Predictor is a machine learning-based project designed to estimate the price of a laptop based on its various features and specifications. The model uses historical data on laptops, including attributes such as brand, processor type, RAM, storage, screen size, and more, to predict a likely price. This project helps potential buyers or sellers estimate the price of laptops, enabling informed decisions when buying or selling in the marketplace.
 
