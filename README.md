@@ -10,9 +10,13 @@ The prediction model can be utilized across various e-commerce platforms, tech r
 The project consists of several stages:
 
 **1. Data Collection & Preprocessing**: Laptops data is collected from various sources, including e-commerce websites. Preprocessing steps include handling missing values, categorical encoding, and feature scaling.
+
 **2. Exploratory Data Analysis (EDA)**: Analyzing and visualizing trends, correlations, and distributions in the dataset to gain insights into how different features impact laptop prices.
+
 **3. Feature Engineering**: Selecting the most relevant features and transforming them to optimize model performance.
+
 **4. Model Building**: Various machine learning algorithms (Linear Regression, Random Forest, Gradient Boosting, etc.) are tested and compared to find the best-performing model for price prediction.
+
 **5. Model Evaluation**: The chosen model is evaluated using metrics like R-squared, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 
 ## Use Cases
