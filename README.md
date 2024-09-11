@@ -39,7 +39,7 @@ Consumer Market Analysis:
 **3. Trend Analysis**: Help consumers identify trends and patterns in the laptop market, allowing better decision-making based on future price predictions.
 Educational and Research Purposes:
 
-### Key Features
+## Key Features
 
 1. Predict laptop prices based on a wide range of technical specifications.
 2. Supports multiple machine learning models to achieve high accuracy.
@@ -47,16 +47,19 @@ Educational and Research Purposes:
 4. Feature selection and engineering to improve model performance.
 5. Comprehensive performance metrics and comparison of algorithms.
 
-### Technologies Used
+## Technologies Used
 
-#### Languages:
+### Languages:
 Python
-#### Libraries:
+### Software tools:
+1. Jupyter Notebook
+2. PyCharm Community Edition
+### Libraries:
 scikit-learn, pandas, numpy, matplotlib, seaborn, pickle, streamlit
-#### Algorithms:
+### Algorithms:
 Linear Regression, Ridge, Lasso, Decision Trees, Random Forest, KNN, SVM, etc.
-#### Deployment:
+### Deployment:
 Streamlit for a web interface
 
-### Walkthrough of the application
+## Walkthrough of the application
 https://github.com/user-attachments/assets/87c74c31-bc34-42f5-95a4-77a1b4f5efde
