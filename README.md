@@ -59,3 +59,4 @@ Linear Regression, Ridge, Lasso, Decision Trees, Random Forest, KNN, SVM, etc.
 Streamlit for a web interface
 
 ### Walkthrough of the application
+https://github.com/user-attachments/assets/87c74c31-bc34-42f5-95a4-77a1b4f5efde
