@@ -61,5 +61,8 @@ Linear Regression, Ridge, Lasso, Decision Trees, Random Forest, KNN, SVM, etc.
 ### Deployment:
 Streamlit for a web interface
 
+### Interface:
+![laptop Price Predictor](https://github.com/user-attachments/assets/5e55401e-82aa-48d5-937d-a6e2f17907d0)
+
 ## Walkthrough of the application
 https://github.com/user-attachments/assets/87c74c31-bc34-42f5-95a4-77a1b4f5efde
